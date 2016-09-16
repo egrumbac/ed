@@ -1,6 +1,6 @@
 ---
 layout: narrative
-title: The Young Lords: A Brief Introduction
+title: "The Young Lords: A Brief Introduction"
 author: Unknown
 publication-date: Unknown
 source: "zine purchased March 2016, Houston TX, Anti-Flag performance"
