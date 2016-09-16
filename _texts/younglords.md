@@ -1,15 +1,10 @@
 ---
-
 layout: narrative
 title: The Young Lords: A Brief Introduction
 author: Unknown
 publication-date: Unknown
 source: "zine purchased March 2016, Houston TX, Anti-Flag performance"
-
 ---
-
-# The Young Lords
-### A BRIEF INTRODUCTION
 
 In 1898. the United States declared war on Spain and, as' victor of the war', took Puerto Rico as a possession - beginm'ng the colonial relationship that persists to the present day. And since the formation of that bcolonial relationship" there has been a steady immigration of Pueno Ricans to the United States. The trend of migration has been largely shaped in the past by periods ofwar. In 1917 US Congress passed the Jones Act, which made the Puerto Rican people US citiz'ens. This' was done mostly for the need of people to fight tn' WWI. Sm'ce they were now citiz'ens Puetto Rican men were drafted into the Arms Service to fight and die dunn'g WWI. By 1930 there were many established Puato Rican communities all over the country, most notably in New Yorkbs Harlem and the Borough ofBrooklyn.
 
